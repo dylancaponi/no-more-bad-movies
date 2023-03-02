@@ -1,10 +1,12 @@
 There are enough "good" movies (and TV shows) in the world that you should never have to watch a "bad" one if you don't want to.
 
-But where exactly is the cutoff between good and bad?
+**But where exactly is the cutoff between good and bad?**
 
-Well that depends on how much longer you plan to live and how much content you watch per day.
-
-It also depends on how much media you've *already* consumed.
+Well that depends on:
+- How much longer you plan to live and how much content you watch per day.
+- How much media you've *already* consumed.
+- How much new media you predict to be created in your lifetime
+- Changes in the quality of media created in the future
 
 Let's say you're 30, you watch 1hr of content per day, and you'll die at 80.
 
